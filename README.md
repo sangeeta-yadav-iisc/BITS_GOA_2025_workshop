@@ -9,15 +9,15 @@ It demonstrates how **Physics-Informed Neural Networks (PINNs)** can be used to 
 
 We solve the steady 1D convection–diffusion equation:
 
-\[
+$$
 -\\varepsilon u''(x) + b u'(x) = f(x), \quad x \\in (0,1)
-\]
+$$
 
 with boundary conditions:
 
-\[
+$$
 u(0) = 0, \quad u(1) = 0
-\]
+$$
 
 ---
 
