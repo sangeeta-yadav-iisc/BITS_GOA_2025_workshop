@@ -1,3 +1,5 @@
+# Unified Approaches to Solving Differential Equations: From Classical Methods to Neural Networks (UniSDE-2025)
+
 # L30: Neural Network–based Solvers for Convection–Diffusion Systems
 
 I demonstrate the use of **Physics-Informed Neural Networks (PINNs)** with **DeepXDE** for solving following equations with corresponding notebooks:
