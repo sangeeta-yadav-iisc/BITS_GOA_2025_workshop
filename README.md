@@ -3,7 +3,7 @@
 L30 covers the following equations and their corresponding DeepXDE notebooks:
 
 - **1D Steady Convection–Diffusion Equation**  
-  👉 [Open Notebook](./notebooks/convection_diffusion_pinn.ipynb)
+  👉 [Open Notebook](https://github.com/sangeeta-yadav-iisc/NIT_Hamirpur_FDP_2025/blob/main/pinntutorial1.ipynb)
 
 - **1D Time-Dependent Burgers’ Equation**  
   👉 [Open Notebook](./notebooks/burgers_equation_pinn.ipynb)
