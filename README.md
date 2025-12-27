@@ -1,8 +1,7 @@
 # Workshop “Infectious Disease Dynamics: Modeling and Computational Techniques”
-supported under SPARC Project by Govt. of India Dates: 26–27 December 2025
 Venue: BITS Pilani K. K. Birla Goa Campus
 
-# L30: Neural Network–based Solvers for Convection–Diffusion Systems
+# Hands-on session Hands-on Session on PINNs and DeepXDE
 
 I demonstrate the use of **DeepXDE** for solving following excercises with corresponding notebooks:
 
