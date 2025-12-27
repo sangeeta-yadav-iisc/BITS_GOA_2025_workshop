@@ -18,7 +18,9 @@ Verify Installation
 
 Open a terminal (or Anaconda Prompt on Windows) and run:
 
+'''
 conda --version
+'''
 
 
 If a version number appears, Miniconda is installed correctly ✅
