@@ -33,7 +33,9 @@ If you prefer a single command setup, use the provided install script.
 
 ### Linux / macOS / WSL
 ```bash
+chmod +x install.sh
 ./install.sh
+```
 
 ### Windows
 install.bat
